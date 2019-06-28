@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515074848 source:d:\c++codeblock\f_reading from a file\main.c
+	<stdio.h>
+	<stdlib.h>
+
