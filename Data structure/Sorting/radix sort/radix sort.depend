@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509160451 source:d:\c++codeblock\radix sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

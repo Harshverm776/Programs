@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539528468 source:d:\c++codeblock\cscan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

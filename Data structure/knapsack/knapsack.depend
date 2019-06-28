@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520517849 source:d:\c++codeblock\knapsack\main.c
+	<stdio.h>
+	<stdlib.h>
+
